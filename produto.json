@@ -4,6 +4,13 @@
         "preco": 312.90,
         "quantidade": 0,
         "disponivel": false,
-        "falsificacoes": null
+        "falsificacoes": null,
+        "variacoes":{
+            "nome": "Mesa Digitalizadora One by Wacom ",
+            "preco": 252.00,
+            "quantidade": 4,
+            "disponivel": true,
+            "falsificacoes": null
+        }
     }
 }

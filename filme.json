@@ -4,6 +4,10 @@
         "ano": "2004",
         "diretor": "Hayao Miyazaki",
         "generos": ["animaçao", "fantasia", "aventura", "Romance"],
-        "transmissoes": null
+        "transmissoes": null,
+        "personagem":{
+            "nome": "Howl",
+            "dublador": "Takuya Kimura"
+        }
     }
 }
