@@ -1,0 +1,8 @@
+{
+    "filme favorito": {
+        "nome": "O Castelo Animado",
+        "ano": "2004",
+        "diretor": "Hayao Miyazaki",
+        "generos": ["animaçao", "fantasia", "aventura", "Romance"]
+    }
+}

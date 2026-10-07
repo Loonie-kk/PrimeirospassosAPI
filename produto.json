@@ -1,0 +1,8 @@
+{
+    "produto": {
+        "nome": "Mesa Digitalizadora Wacom Intuos",
+        "preco": 312.90,
+        "quantidade": 0,
+        "disponivel": false 
+    }
+}
